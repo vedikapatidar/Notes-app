@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="My_primary1">#E9405B63</color>
+    <color name="My_primary">#1A737E</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="red">#8F0505</color>
+    <color name="grey">#605A5A</color>
+    <color name="black1">#222020</color>
+    <color name="black">#FF000000</color>
+    <color name="white1">#D8E8E7E7</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

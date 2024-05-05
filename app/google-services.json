@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460583728327",
+    "project_id": "notes-project-79d72",
+    "storage_bucket": "notes-project-79d72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460583728327:android:9991b26a1ea51c126dfae2",
+        "android_client_info": {
+          "package_name": "com.vedika.notesproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460583728327-jd726r9cqfiuijqt6u85fj5ra0bl8unp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu3mPOejN3A6BtA8rF-8xbOVUE_sCTPTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460583728327-jd726r9cqfiuijqt6u85fj5ra0bl8unp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
